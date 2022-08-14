@@ -4332,15 +4332,16 @@ Lesson 5: Auxiliary Systems
   5. Reverse Top Lock System @30:34
   6. Cross Body Ride @44:28
   7. Leg Attacks @53:49
-Lesson 6: Auxiliary Systems Continued
+Lesson 6: Auxiliary Systems, Cross Body Ride
   file=6.mp4
   1. Leg Attacks 2 @0:00
   2. Transitions @5:27
   3. Arm Attack/Hammer Lock @10:17
   4. Twister 2 @19:10
-  5. Back Crucifix @32:56
-  6. Strangles @43:00
-  7. Arm Locks @53:30
+  5. Transitions @25:29
+  6. Back Crucifix @32:56
+  7. Strangles @43:00
+  8. Arm Locks @53:30
 Lesson 7: Establishing Hooks And Rear Mount
   file=7.mp4
   1. Establishing Hooks And Rear Mount Introduction @0:00
