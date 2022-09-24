@@ -937,6 +937,48 @@ function searchUI() {
                  return item.course && (item.course.name === 'BBS 4');
              }]);
          }]]],
+        ['button', 'WE 2.0',
+         ['on', ['click', () => {
+             var context = { Escape : popContext },
+                 allWE2 = lessonList.filter(l => l.course.name.match('2.0'));
+             M(['div', ['with', mapDiv => {
+                 M(['div', ['button', 'Close', ['on', ['click', e => {
+                     popContext();
+                 }]]]], mapDiv);
+                 allWE2.forEach(l => {
+                     var toggleList;
+                     M(['div',
+                        ['div', l.number + ": " + l.name,
+                         ['style', ['cursor', 'pointer'],
+                          ['display', 'inline-block'],
+                          ['margin', '5px 0 0 5px'],
+                          ['borderBottom', '2px solid lightgray']],
+                         ['on', ['click', e => {
+                             toggleList();
+                         }]]],
+                        ['ol',
+                         ['style', ['display', 'none']],
+                         ['with', lessonDiv => {
+                             var on;
+                             toggleList = () => {
+                                 on = !on;
+                                 lessonDiv.style.display = on ? 'block' : 'none';
+                             };
+                             l.slices.forEach(slice => {
+                                 M(['li', slice.name,
+                                    ['style', ['cursor', 'pointer']],
+                                    ['on', ['click', e => {
+                                        video(slice);
+                                    }]]], lessonDiv);
+                             });
+                         }]]], mapDiv);
+                 });
+                 context.show = () => { mapDiv.style.display = 'block'; };
+                 context.hide = () => { mapDiv.style.display = 'none'; };
+                 context.drop = () => { mapDiv.remove(); };
+             }]], document.body);
+             pushContext(context);
+         }]]],
         ['button', 'Combatives map',
          ['on', ['click', () => {
              var context = { Escape : popContext },
