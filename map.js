@@ -1052,7 +1052,7 @@ function searchUI() {
                                  var toggleSublist;
                                  totalLessons += 1;
                                  M(['li',
-                                    ['span', l.name,
+                                    ['span', l.name + ' (' + l.number + ')',
                                      ['style', ['cursor', 'pointer']],
                                      ['on', ['click', e => {
                                          toggleSublist();
