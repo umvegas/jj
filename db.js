@@ -556,6 +556,128 @@ Lesson 2: Volume 2
   5. No gi torreando @21:46
   6. Leg drag pass @27:59
 END How to Pass Quickly by Craig Jones
+BEGIN Craig Jones Power Ride
+folder cj-power-ride
+nodemo
+Lesson 1: Basic Principles
+  file=1.mp4
+  1. Introduction @0:00
+  2. Traditional Scoring: Points Do Not Mean Control @1:31
+  3. How Movement Is Created @12:59
+  4. Where Power Is Created @18:36
+  5. Standard Operating Procedure @23:53
+Lesson 2: Leg Control
+  file=2.mp4
+  1. Introduction @0:00
+  2. Split @0:49
+  3. Ride @11:42
+  4. Turk @15:33
+  5. Shelf @20:29
+  6. Rear Mount @24:59
+Lesson 3: Upper Body Tools
+  file=3.mp4
+  1. Introduction @0:00
+  2. Cross Face @1:54
+  3. Open Elbow @11:44
+  4. Dagestani Handcuff @16:47
+  5. Half Nelson @22:56
+  6. Arm In Cross Face @27:26
+  7. Rear Naked Control @30:07
+  8. Rear Mount Hierarchy @33:53
+Lesson 4: Control Principles from Turtle
+  file=4.mp4
+  1. Introduction @0:00
+  2. Kosoto Hook @2:18
+  3. Cradle @7:01
+  4. Diagonal Ride @10:16
+  5. Crab Hook @19:03
+  6. Spiral Ride @21:11
+  7. Underclaw @24:25
+  8. Piecing It All Together @27:41
+  9. Creating a Loop @38:20
+Lesson 5: Entries
+  file=5.mp4
+  1. Side Control @0:00
+  2. Mount Entries @9:21
+  3. Knee Ride @15:37
+  4. Rear Mount @18:50
+  5. Leg Drag @25:10
+  6. Smash Pass @29:23
+  7. Dope Mount @33:14
+  8. Body Lock @37:58
+Lesson 6: Control to Submission
+  file=6.mp4
+  1. Introduction @0:00
+  2. Arm Triangle @3:13
+  3. Baby Seal @10:34
+  4. Big Girls Don't Cry @11:09
+  5. Rear Ezekiel @11:46
+  6. Belly Down Rear Naked @16:22
+  7. Darce @27:10
+  8. Cow Catcher @38:05
+  9. Kimura @44:03
+ 10. Gift Wrap @48:49
+ 11. Half Nelson @54:34
+ 12. Final Thoughts @59:12
+END Craig Jones Power Ride
+BEGIN Craig Jones Pendejo Guard
+folder cj-pendejo-guard
+nodemo
+Lesson 1: The Pendejo Guard
+  file=1.mp4
+  1. Inntroduction @0:00
+  2. Sweep 1 @8:59
+  3. Off Balance to Wrestle Up @13:11
+  4. Pendulum Fuerte @17:08
+  5. False Reap @21:40
+  6. Never Before Seen Heel Hook Exposure @33:46
+END Craig Jones Pendejo Guard
+BEGIN Roy Harris Rapid Skill Development
+folder royharris-skill-development
+nodemo
+Lesson 1: FBIAO, Fundamentals
+  file=1.mp4
+  1. Introduction @0:00
+  2. The F.B.I.A.O Method @2:49
+  3. HJJ Fundamental #1: Definitions @7:42
+  4. HJJ Fundamental #2: Principles @12:56
+  5. HJJ Fundamental #3: Equations @16:33
+  6. HJJ Fundamental #4: Mindsets @18:25
+  7. HJJ Fundamental #5: Practice Rolls @23:30
+  8. HJJ Fundamental #6: Practice Levels @25:40
+  9. HJJ Fundamental #7: Defensive Positioning @28:30
+ 10. HJJ Fundamental #8: Offensive Positioning @34:37
+Lesson 2: The Basics
+  file=2.mp4
+  1. Bridge and Roll, Level 1 @0:00
+  2. Bridge and Roll, Level 2 @1:32
+  3. Elbow/Knee, Level 1 @3:16
+  4. Elbow/Knee, Level 2 @4:36
+  5. Under the Leg Guard Pass, Level 1 @6:03
+  6. Under the Leg Guard Pass, Level 2 @7:13
+  7. Over the Leg Guard Pass, Level 1 @10:16
+  8. Over the Leg Guard Pass, Level 2 @12:08
+  9. Side Mount Control #2, Level 1 @14:44
+  9. Side Mount Control #2, Level 2 @15:42
+ 10. Americana from Side Mount, Level 1 @18:46
+ 11. Americana from Side Mount, Level 2 @20:26
+Lesson 3: The Intermediates
+  file=3.mp4
+  1. Practice Method #1: Feeding and Monitoring @0:00
+  2. Practice Method #2: Measuring @2:59
+  3. Practice Method #3: The Essence @9:59
+  4. Practice Method #4: Purposeful, Focused, Disciplined Efforts @10:57
+  5. Practice Method #5-6: A Handful of Details @13:43
+  6. Training Method #1: Context @14:59
+  7. Training Method #2: Precision Every Repetition @18:01
+  8. Training Method #3: Segment, Isolate @20:12
+  9. Training Method #4: Compression @23:17
+ 10. Training Method #5: Smooth and Fluid @25:33
+ 11. Training Method #6: Eye Closed @29:01
+ 12. Training Method #7: Add Occasional Athleticism @31:34
+ 13. Ideas for Rapid Skill Development @34:46
+ 14. Conclusion @37:44
+END Roy Harris Rapid Skill Development
 BEGIN Eddie Bravo Rubber Guard
 folder eddie-bravo-rubber-guard
 nodemo
@@ -645,6 +767,43 @@ Lesson 1: Live Evaluation Feedback
   file=live.eval.mp4
   1. Introduction @0:00
 END ICP Combatives Feedback
+BEGIN Trap and Roll Mastery
+folder ryron-trap-and-roll
+Lesson 1: Shadow Hands
+  file=tnr.01.mp4
+Lesson 2: Second Hand
+  file=tnr.02.mp4
+Lesson 3: Heavy Neck
+  file=tnr.03.mp4
+Lesson 4: Power Push
+  file=tnr.04.mp4
+Lesson 5: North Move
+  file=tnr.05.mp4
+Lesson 6: Swim Catch
+  file=tnr.06.mp4
+Lesson 7: Head Slip
+  file=tnr.07.mp4
+Lesson 8: Hand Feed
+  file=tnr.08.mp4
+Lesson 9: Elbow Anchor
+  file=tnr.09.mp4
+Lesson 10: Mount Transition
+  file=tnr.10.mp4
+Lesson 11: Head Control
+  file=tnr.11.mp4
+Lesson 12: Stage 1
+  file=tnr.12.mp4
+Lesson 13: Introduction
+  file=tnr.00.mp4
+Lesson 14: Outline
+  file=tnr.00a.outline.mp4
+Lesson 15: Disclaimer
+  file=tnr.00b.disclaimer.mp4
+Lesson 16: Action Steps
+  file=tnr.13a.action.mp4
+Lesson 17: Six Factors
+  file=tnr.13b.6factors.mp4
+END Trap and Roll Mastery
 BEGIN Secret Submissions
 folder ss
 nodemo
@@ -1083,6 +1242,125 @@ Lesson 15: Weapon Defenses
   rdd@27:10
   mm@32:01
 END Women Empowered
+BEGIN Gracie Combatives 2.0
+folder gc2
+Lesson 1: Trap and Roll Escape
+  1. Standard Variation @3:00
+  2. Punch Block Variation @18:13
+  3. Headlock Variation @39:00
+  4. Open Guard Pass @51:11
+  5. Spread Hand Variation @65:17
+  rdd@78:05
+  mm@84:52
+Lesson 2: Americana Armlock
+  1. Basic Application @2:16
+  2. Standard Variation @17:00
+  3. Neck-Hug Variation @29:29
+  4. Side Entry @40:46
+  rdd@46:25
+  mm@51:00
+Lesson 3: Positional Control (Mount)
+  1. TODO @2:50
+Lesson 4: Take the Back (Mount)
+  1. Take the Back @3:23
+  2. Remount Technique @28:39
+  rdd@46:25
+  mm@51:00
+Lesson 5: Rear Naked Choke
+  1. TODO @2:50
+Lesson 6: Leg Hook Takedown
+  1. TODO @2:50
+Lesson 7: Clinch (Aggressive Opponent)
+  1. TODO @2:50
+Lesson 8: Punch Block Series (Stages 1-4)
+  1. TODO @2:50
+Lesson 9: Straight Armlock (Mount)
+  1. TODO @2:50
+Lesson 10: Triangle Choke
+  1. TODO @2:50
+Lesson 11: Elevator Sweep
+  1. TODO @2:50
+Lesson 12: Elbow Escape (Mount)
+  1. TODO @2:50
+Lesson 13: Positional Control (Side Mount)
+  1. TODO @2:50
+Lesson 14: Body Fold Takedown
+  1. TODO @2:50
+Lesson 15: Clinch (Conservative Opponent)
+  1. Surprise Entry @2:07
+  2. Pisao Front Kick @15:04
+  rdd@24:28
+  fs@25:23
+  mm@27:26
+Lesson 16: Headlock Counters
+  1. Basic Positioning @2:50
+  2. Prevent the Getup @9:55
+  3. Back Mount Finish @19:05
+  4. Armbar Finish @24:00
+  5. Guillotine Dismount @32:45
+  rdd@44:09
+  mm@48:22
+Lesson 17: Double Leg Takedown
+  1. TODO @2:50
+Lesson 18: Headlock Escape 1
+  1. TODO @2:50
+Lesson 19: Straight Armlock (Guard)
+  1. TODO @2:50
+Lesson 20: Double Ankle Sweep
+  1. Knee Thrust Variation @4:11
+  2. Kick Variation @22:53
+  3. Double Ankle Counter @39:49
+  rdd@49:18
+  fs@50:32
+  mm@52:49
+Lesson 21: Pull Guard
+  1. TODO @2:50
+Lesson 22: Headlock Escape 2
+  1. Standard Leg Hook @2:18
+  2. Super Base Variation @16:33
+  3. Punch Block Variation @26:37
+  4. Surprise Roll @39:33
+  rdd@49:48
+  fs@51:03
+  mm@53:20
+Lesson 23: Guillotine Choke
+  1. Basic Application @4:46
+  2. Standing Variation @15:37
+  3. Guard Pull Variation @27:51
+  4. Arm-In Guillotine @39:28
+  rdd@59:24
+  fs@60:31
+  mm@62:57
+Lesson 24: Shrimp Escape
+  1. TODO @2:50
+Lesson 25: Kimura Armlock
+  1. TODO @2:50
+Lesson 26: Standing Headlock Defense
+  1. Standard Variation @4:51
+  2. Smart Base Variation @20:35
+  rdd@28:55
+  mm@32:54
+Lesson 27: Punch Block Series (Stage 5)
+  1. TODO @2:50
+Lesson 28: Hook Sweep
+  1. TODO @2:50
+Lesson 29: Rear Takedown
+  1. TODO @2:50
+Lesson 30: Haymaker Punch Defense
+  1. TODO @2:50
+Lesson 31: Take the Back (Guard)
+  1. TODO @2:50
+Lesson 32: Guillotine Defense
+  1. TODO @2:50
+Lesson 33: Elbow Escape (Side Mount)
+  1. TODO @2:50
+Lesson 34: Standing Armlock
+  1. TODO @2:50
+Lesson 35: Twisting Arm Control
+  1. TODO @2:50
+Lesson 36: Double Underhook Guard Pass
+  1. TODO @2:50
+END Gracie Combatives 2.0
 BEGIN Gracie Combatives
 folder gc
 Lesson 1: Trap and Roll Escape
