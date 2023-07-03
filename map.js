@@ -982,7 +982,7 @@ function searchUI() {
         ['button', 'Combatives map',
          ['on', ['click', () => {
              var context = { Escape : popContext },
-                 allCombatives = lessonList.filter(l => l.course.name.match('Gracie Combatives'));
+                 allCombatives = lessonList.filter(l => l.course.name.match('Gracie Combatives 2.0'));
              M(['div', ['with', mapDiv => {
                  M(['div', ['button', 'Close', ['on', ['click', e => {
                      popContext();
@@ -1049,10 +1049,11 @@ function searchUI() {
                         ['ol',
                          ['with', ol => {
                              chapterLessons.forEach(l => {
+                                 const stripeNumber = l.course.name.match(/\d/)[0];
                                  var toggleSublist;
                                  totalLessons += 1;
                                  M(['li',
-                                    ['span', l.name + ' (' + l.number + ')',
+                                    ['span', l.name + ' (' + stripeNumber + '.' + l.number + ')',
                                      ['style', ['cursor', 'pointer']],
                                      ['on', ['click', e => {
                                          toggleSublist();
