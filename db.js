@@ -1269,7 +1269,12 @@ Lesson 4: Take the Back (Mount)
 Lesson 5: Rear Naked Choke
   1. TODO @2:50
 Lesson 6: Leg Hook Takedown
-  1. TODO @2:50
+  1. Clinch Control @3:20
+  2. Leg Hook Takedown @13:29
+  3. Outside Trip @25:35
+  rdd@34:40
+  fs@36:02
+  mm@37:45
 Lesson 7: Clinch (Aggressive Opponent)
   1. TODO @2:50
 Lesson 8: Punch Block Series (Stages 1-4)
@@ -1344,7 +1349,13 @@ Lesson 24: Shrimp Escape
   fs@70:34
   mm@73:25
 Lesson 25: Kimura Armlock
-  1. TODO @2:50
+  1. Basic Application @2:47
+  2. Rider Variation @17:02
+  3. Forced Variation @29:20
+  4. Stage 1.5 Variation @42:25
+  rdd@53:36
+  fs@59:19
+  mm@62:41
 Lesson 26: Standing Headlock Defense
   1. Standard Variation @4:51
   2. Smart Base Variation @20:35
