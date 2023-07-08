@@ -1285,7 +1285,11 @@ Lesson 12: Elbow Escape (Mount)
 Lesson 13: Positional Control (Side Mount)
   1. TODO @2:50
 Lesson 14: Body Fold Takedown
-  1. TODO @2:50
+  1. Body Fold Takedown @1:59
+  2. Inside Trip @14:40
+  rdd@22:27
+  fs@24:25
+  mm@26:18
 Lesson 15: Clinch (Conservative Opponent)
   1. Surprise Entry @2:07
   2. Pisao Front Kick @15:04
@@ -1332,7 +1336,13 @@ Lesson 23: Guillotine Choke
   fs@60:31
   mm@62:57
 Lesson 24: Shrimp Escape
-  1. TODO @2:50
+  1. Block and Shoot Variation @2:38
+  2. Shrimp and Shoot Variation @18:24
+  3. Rider Variation @28:47
+  4. Half Guard Recovery @56:08
+  rdd@68:14
+  fs@70:34
+  mm@73:25
 Lesson 25: Kimura Armlock
   1. TODO @2:50
 Lesson 26: Standing Headlock Defense
