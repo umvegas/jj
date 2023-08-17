@@ -1260,14 +1260,29 @@ Lesson 2: Americana Armlock
   rdd@46:25
   mm@51:00
 Lesson 3: Positional Control (Mount)
-  1. TODO @2:50
+  1. Hips and Hands @3:02
+  2. Anchor and Base @13:35
+  3. Low Swim @28:13
+  4. High Swim @37:31
+  5. Half Nelson @49:42
+  rdd@58:14
+  fs@60:15
+  mm@72:00
 Lesson 4: Take the Back (Mount)
   1. Take the Back @3:23
   2. Remount Technique @28:39
-  rdd@46:25
-  mm@51:00
+  3. Rider Transition @41:23
+  rdd@54:23
+  fs@56:56
+  mm@59:50
 Lesson 5: Rear Naked Choke
-  1. TODO @2:50
+  1. Basic Application @3:53
+  2. Strong Side Variation @27:15
+  3. Weak Side Variation @37:02
+  4. Frame Escape @47:12
+  rdd@60:20
+  fs@63:28
+  mm@66:00
 Lesson 6: Leg Hook Takedown
   1. Clinch Control @3:20
   2. Leg Hook Takedown @13:29
@@ -1276,7 +1291,11 @@ Lesson 6: Leg Hook Takedown
   fs@36:02
   mm@37:45
 Lesson 7: Clinch (Aggressive Opponent)
-  1. TODO @2:50
+  1. Close the Distance @4:09
+  2. Over-Under Clinch @24:13
+  rdd@31:47
+  fs@36:38
+  mm@38:26
 Lesson 8: Punch Block Series (Stages 1-4)
   1. TODO @2:50
 Lesson 9: Straight Armlock (Mount)
@@ -1323,7 +1342,11 @@ Lesson 20: Double Ankle Sweep
   fs@50:32
   mm@52:49
 Lesson 21: Pull Guard
-  1. TODO @2:50
+  1. Pull Guard @1:52
+  2. Posture Prevention @24:49
+  rdd@37:25
+  fs@38:46
+  mm@41:42
 Lesson 22: Headlock Escape 2
   1. Standard Leg Hook @2:18
   2. Super Base Variation @16:33
@@ -1364,7 +1387,12 @@ Lesson 26: Standing Headlock Defense
 Lesson 27: Punch Block Series (Stage 5)
   1. TODO @2:50
 Lesson 28: Hook Sweep
-  1. TODO @2:50
+  1. Hook Sweep @3:26
+  2. Sweep Follow-Up @13:14
+  3. Knee Slice Open Guard Pass @21:08
+  rdd@37:56
+  fs@39:09
+  mm@41:54
 Lesson 29: Rear Takedown
   1. TODO @2:50
 Lesson 30: Haymaker Punch Defense
@@ -1372,9 +1400,18 @@ Lesson 30: Haymaker Punch Defense
 Lesson 31: Take the Back (Guard)
   1. TODO @2:50
 Lesson 32: Guillotine Defense
-  1. TODO @2:50
+  1. Standard Variation @2:29
+  2. Outside Trip Variation @23:57
+  rdd@39:28
+  fs@41:06
+  mm@43:50
 Lesson 33: Elbow Escape (Side Mount)
-  1. TODO @2:50
+  1. Knee Drive Variation @2:26
+  2. High Step Variation @19:56
+  3. Half Guard Pass @34:03
+  rdd@44:35
+  fs@47:10
+  mm@49:19
 Lesson 34: Standing Armlock
   1. TODO @2:50
 Lesson 35: Twisting Arm Control
@@ -3807,6 +3844,50 @@ Lesson 9: Outro
   file=pbs4.09.mp4
   1. Outro @0:00
 END PBS 4
+BEGIN Master Sauer Seminar Series
+folder ms
+Lesson 1: Mount Escape Mastery
+file=ms.01.mp4
+  1. Super Shrimp Escape @0:00
+  2. Cross Face Counter @21:21
+  3. Surprise Roll @34:15
+  4. D'arce Choke Counter @46:51
+  5. North Prayer @56:35
+  6. Inverted Wristlock @65:05
+  7. North Pendulum Whip @70:46
+  8. Final Philosophy @79:26
+Lesson 2: Guard Pass Mastery
+file=ms.02.mp4
+  1. Critical Posture @0:00
+  2. Stretch Break @15:30
+  3. Slip Break @32:17
+  4. Stack Pass @42:13
+  5. Stack Switches @55:36
+  6. Bully Break @65:06
+  7. Open Guard Passing Principles @71:36
+  8. Final Philosophy @79:34
+Lesson 3: Submission Mastery
+file=ms.03.mp4
+  1. Cross Choke Combinations @0:00
+  2. Sneaky Mounted Wristlock @16:25
+  3. Surprise Side Mount Wristlock @26:15
+  4. Transitional Kimura @32:33
+  5. Choke-Armlock Combination @39:22
+  6. Half Guard Cross Choke @48:30
+  7. Turtle Shoulder Crank @56:03
+  8. Body Triangle Counter @61:43
+  9. Final Philosophy @68:07
+Lesson 4: Sweep Mastery
+file=ms.04.mp4
+  1. Scissor Sweep @00:00
+  2. Scissor Switch @16:48
+  3. Elevator Sweep @25:00
+  4. Overhead Sweep @41:10
+  5. Hook Sweep @54:24
+  6. Shin Sweep @60:44
+  7. Sit-up Sweep @69:17
+  8. Final Philosophy @80:45
+END Master Sauer Seminar Series
 BEGIN Street Choke Seminar
 folder street-choke-seminar
 nodemo
