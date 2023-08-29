@@ -1299,9 +1299,21 @@ Lesson 7: Clinch (Aggressive Opponent)
 Lesson 8: Punch Block Series (Stages 1-4)
   1. TODO @2:50
 Lesson 9: Straight Armlock (Mount)
-  1. TODO @2:50
+  1. Final Control @3:36
+  2. Standard Variation @17:23
+  3. Side Variation @32:25
+  4. S-Mount Variation @47:11
+  rdd@58:26
+  fs@58:55
+  mm@61:04
 Lesson 10: Triangle Choke
-  1. TODO @2:50
+  1. Triangle Finish @2:45
+  2. Stage 1.5 Variation @24:14
+  3. Giant Killer Variation @40:19
+  4. Slam Prevention @54:34
+  rdd@63:12
+  fs@66:13
+  mm@68:24
 Lesson 11: Elevator Sweep
   1. TODO @2:50
 Lesson 12: Elbow Escape (Mount)
@@ -1396,7 +1408,11 @@ Lesson 28: Hook Sweep
 Lesson 29: Rear Takedown
   1. TODO @2:50
 Lesson 30: Haymaker Punch Defense
-  1. TODO @2:50
+  1. Haymaker Punch Defense @1:56
+  2. Verbal De-Escalation @17:29
+  rdd@51:50
+  fs@53:20
+  mm@55:42
 Lesson 31: Take the Back (Guard)
   1. TODO @2:50
 Lesson 32: Guillotine Defense
