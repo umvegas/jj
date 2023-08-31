@@ -1315,7 +1315,12 @@ Lesson 10: Triangle Choke
   fs@66:13
   mm@68:24
 Lesson 11: Elevator Sweep
-  1. TODO @2:50
+  1. Standard Variation @3:01
+  2. Headlock Variation @20:04
+  3. Late Angle Acquisition @29:53
+  rdd@36:36
+  fs@37:37
+  mm@39:26
 Lesson 12: Elbow Escape (Mount)
   1. TODO @2:50
 Lesson 13: Positional Control (Side Mount)
@@ -1406,7 +1411,12 @@ Lesson 28: Hook Sweep
   fs@39:09
   mm@41:54
 Lesson 29: Rear Takedown
-  1. TODO @2:50
+  1. Rear Clinch Acquisition @2:53
+  2. Rear Takedown @14:09
+  3. Standing Rear Naked Choke @28:06
+  rdd@36:02
+  fs@37:33
+  mm@40:23
 Lesson 30: Haymaker Punch Defense
   1. Haymaker Punch Defense @1:56
   2. Verbal De-Escalation @17:29
