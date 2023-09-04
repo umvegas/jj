@@ -1322,7 +1322,14 @@ Lesson 11: Elevator Sweep
   fs@37:37
   mm@39:26
 Lesson 12: Elbow Escape (Mount)
-  1. TODO @2:50
+  1. Standard Elbow Escape @2:26
+  2. Hook Removal @26:45
+  3. Fish Hook @37:34
+  4. Heel Drag @45:54
+  5. Surprise Rolls @56:44
+  rdd@72:22
+  fs@73:35
+  mm@75:58
 Lesson 13: Positional Control (Side Mount)
   1. TODO @2:50
 Lesson 14: Body Fold Takedown
