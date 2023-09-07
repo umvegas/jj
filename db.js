@@ -1331,7 +1331,13 @@ Lesson 12: Elbow Escape (Mount)
   fs@73:35
   mm@75:58
 Lesson 13: Positional Control (Side Mount)
-  1. TODO @2:50
+  1. Roll Prevention @2:05
+  2. Guard Prevention @20:40
+  3. Mount Transition @32:16
+  4. Knee-on-Belly Control @48:16
+  rdd@61:18
+  fs@63:25
+  mm@66:24
 Lesson 14: Body Fold Takedown
   1. Body Fold Takedown @1:59
   2. Inside Trip @14:40
@@ -1353,7 +1359,13 @@ Lesson 16: Headlock Counters
   rdd@44:09
   mm@48:22
 Lesson 17: Double Leg Takedown
-  1. TODO @2:50
+  1. Basic Application @3:24
+  2. Aggressive Opponent @14:06
+  3. Conservative Opponent @25:59
+  4. Clinch Climb @33:47
+  rdd@39:30
+  fs@41:02
+  mm@43:40
 Lesson 18: Headlock Escape 1
   1. TODO @2:50
 Lesson 19: Straight Armlock (Guard)
