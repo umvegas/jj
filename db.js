@@ -1357,6 +1357,7 @@ Lesson 16: Headlock Counters
   4. Armbar Finish @24:00
   5. Guillotine Dismount @32:45
   rdd@44:09
+  fs@46:06
   mm@48:22
 Lesson 17: Double Leg Takedown
   1. Basic Application @3:24
@@ -1367,7 +1368,13 @@ Lesson 17: Double Leg Takedown
   fs@41:02
   mm@43:40
 Lesson 18: Headlock Escape 1
-  1. TODO @2:50
+  1. Standard Frame Escape @3:27
+  2. Scissor Follow-Up @18:08
+  3. Super Lock Variation @28:38
+  4. Headlock Prevention @40:18
+  rdd@50:22
+  fs@52:14
+  mm@54:52
 Lesson 19: Straight Armlock (Guard)
   1. TODO @2:50
 Lesson 20: Double Ankle Sweep
@@ -1458,7 +1465,12 @@ Lesson 33: Elbow Escape (Side Mount)
   fs@47:10
   mm@49:19
 Lesson 34: Standing Armlock
-  1. TODO @2:50
+  1. Basic Application @1:57
+  2. Walking Application @14:58
+  3. Standing Arm Drag @21:59
+  rdd@28:40
+  fs@30:10
+  mm@32:21
 Lesson 35: Twisting Arm Control
   1. TODO @2:50
 Lesson 36: Double Underhook Guard Pass
