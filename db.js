@@ -1298,7 +1298,7 @@ Lesson 7: Clinch (Aggressive Opponent)
   mm@38:26
 Lesson 8: Punch Block Series (Stages 1-4)
   1. TODO @2:50
-Lesson 9: Straight Armlock (Mount)
+Lesson 9: Armbar (Mount)
   1. Final Control @3:36
   2. Standard Variation @17:23
   3. Side Variation @32:25
@@ -1375,8 +1375,14 @@ Lesson 18: Headlock Escape 1
   rdd@50:22
   fs@52:14
   mm@54:52
-Lesson 19: Straight Armlock (Guard)
-  1. TODO @2:50
+Lesson 19: Armbar (Guard)
+  1. Low Variation @2:32
+  2. High Variation @23:40
+  3. Triangle Transition @35:04
+  4. Cross-Grip Prevention @51:32
+  rdd@61:02
+  fs@62:34
+  mm@64:22
 Lesson 20: Double Ankle Sweep
   1. Knee Thrust Variation @4:11
   2. Kick Variation @22:53
@@ -1450,7 +1456,13 @@ Lesson 30: Haymaker Punch Defense
   fs@53:20
   mm@55:42
 Lesson 31: Take the Back (Guard)
-  1. TODO @2:50
+  1. Head and Arm Control @3:20
+  2. Angle Acquisition @13:38
+  3. Final Get-up @20:42
+  4. Headlock Variation @36:26
+  rdd@48:03
+  fs@49:14
+  mm@52:33
 Lesson 32: Guillotine Defense
   1. Standard Variation @2:29
   2. Outside Trip Variation @23:57
