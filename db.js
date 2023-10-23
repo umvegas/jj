@@ -1504,12 +1504,12 @@ Lesson 35: Twisting Arm Control
   fs@44:55
   mm@48:26
 Lesson 36: Double Underhook Guard Pass
-  1. Open Guard Application @2:33
+  1. Open Guard Application @2:24
   2. Closed Guard Variation @22:45
   3. Knee Split Pass @47:56
-  rdd@58:42
-  fs@61:13
-  mm@64:41
+  rdd@60:32
+  fs@63:04
+  mm@66:32
 END Gracie Combatives 2.0
 BEGIN Gracie Combatives
 folder gc
