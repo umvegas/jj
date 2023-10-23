@@ -1297,7 +1297,14 @@ Lesson 7: Clinch (Aggressive Opponent)
   fs@36:38
   mm@38:26
 Lesson 8: Punch Block Series (Stages 1-4)
-  1. TODO @2:50
+  1. Stage 1 @2:11
+  2. Stage 2 @20:45
+  3. Stage 3 @34:01
+  4. Stage 4 @48:05
+  5. Guard Get-Up @58:05
+  rdd@69:57
+  fs@63:11
+  mm@75:11
 Lesson 9: Armbar (Mount)
   1. Final Control @3:36
   2. Standard Variation @17:23
@@ -1434,7 +1441,12 @@ Lesson 26: Standing Headlock Defense
   rdd@28:55
   mm@32:54
 Lesson 27: Punch Block Series (Stage 5)
-  1. TODO @2:50
+  1. Stage 5 @3:41
+  2. Rollover Technique @18:25
+  3. High-low Guard @34:25
+  rdd@43:23
+  fs@47:57
+  mm@52:01
 Lesson 28: Hook Sweep
   1. Hook Sweep @3:26
   2. Sweep Follow-Up @13:14
@@ -1484,9 +1496,20 @@ Lesson 34: Standing Armlock
   fs@30:10
   mm@32:21
 Lesson 35: Twisting Arm Control
-  1. TODO @2:50
+  1. Basic Control @4:15
+  2. Back Mount Finish @15:12
+  3. Armbar Finish @21:42
+  4. Forced Back Mount @34:39
+  rdd@43:40
+  fs@44:55
+  mm@48:26
 Lesson 36: Double Underhook Guard Pass
-  1. TODO @2:50
+  1. Open Guard Application @2:33
+  2. Closed Guard Variation @22:45
+  3. Knee Split Pass @47:56
+  rdd@58:42
+  fs@61:13
+  mm@64:41
 END Gracie Combatives 2.0
 BEGIN Gracie Combatives
 folder gc
