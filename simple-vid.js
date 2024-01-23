@@ -58,7 +58,7 @@ M(['div',
                 return ['div', Math.floor(s * 100) + '%',
                         ['style',
                          ['cursor', 'pointer'],
-                         ['marginRight', '1em'],
+                         ['marginRight', '.8em'],
                          ['display', 'inline-block'],
                          ['padding', '10px'],
                          ['borderRadius', '8px'],
@@ -81,41 +81,71 @@ M(['div',
             };
         }());
         function marker() {
-            var myNdx = markers.length;
+            var showMarkTime, myNdx = markers.length;
             markers.push(undefined);
-            return ['div', 'marker',
+            return ['div',
                     ['style',
-                     ['cursor', 'pointer'],
                      ['marginRight', '1em'],
                      ['display', 'inline-block'],
                      ['padding', '10px'],
                      ['borderRadius', '8px'],
                      ['border', '2px solid gray']],
-                    ['on', ['click', e => {
-                        markers[myNdx] = video.currentTime;
-                        e.target.innerHTML = s2ms(video.currentTime);
-                    }]]];
+                    ['div', 'marker',
+                     ['style',
+                      ['textAlign', 'center'],
+                      ['borderBottom', '1px solid black']],
+                     ['with', labelDiv => {
+                         showMarkTime = t => {
+                             labelDiv.innerHTML = s2ms(t);
+                         };
+                     }]],
+                    ['div', 'set',
+                     ['style',
+                      ['display', 'inline-block'],
+                      ['cursor', 'pointer'],
+                      ['marginTop', '5px']],
+                     ['on', ['click', e => {
+                         markers[myNdx] = video.currentTime;
+                         showMarkTime(video.currentTime);
+                     }]]],
+                    ['span', ' | '],
+                    ['div', 'jump',
+                     ['style',
+                      ['display', 'inline-block'],
+                      ['cursor', 'pointer'],
+                      ['marginTop', '5px']],
+                     ['on', ['click', e => {
+                         if (markers[myNdx] === undefined) {
+                             alert('Set this marker before jumping to it');
+                             return;
+                         }
+                         video.currentTime = markers[myNdx];
+                     }]]]];
         }
         function looper() {
             var looping, intID;
             return ['div', 'loop',
                     ['style',
                      ['cursor', 'pointer'],
+                     ['verticalAlign', 'top'],
                      ['marginRight', '1em'],
                      ['display', 'inline-block'],
-                     ['padding', '10px'],
+                     ['padding', '1.4em 14px 1.4em 14px'],
                      ['borderRadius', '8px'],
                      ['border', '2px solid gray']],
                     ['on', ['click', e => {
                         function reset() {
                             video.currentTime = markers[0];
                         }
-                        if (!markersSet()) { return; }
+                        if (!markersSet()) {
+                            alert('Set both markers before looping.');
+                            return;
+                        }
                         looping = !looping;
                         if (looping) {
                             e.target.style.background = 'lightgreen';
                             reset();
-                            video.paused = false;
+                            video.play();
                             intID = setInterval(() => {
                                 if (video.currentTime > markers[1]) {
                                     reset();
@@ -222,7 +252,7 @@ M(['div',
             }]]], document.body);
         M(['fieldset',
            ['legend', 'Playback Speed'],
-           ['style', ['display', 'inline-block']],
+           ['style', ['display', 'inline-block'], ['verticalAlign', 'top']],
            [speedButton, 0.2],
            [speedButton, 0.3],
            [speedButton, 0.5],
@@ -231,10 +261,10 @@ M(['div',
            [speedButton, 2.0]], document.body);
         M(['fieldset',
            ['legend', 'Bookmarks'],
-           ['style', ['display', 'inline-block']],
+           ['style', ['display', 'inline-block'], ['verticalAlign', 'top']],
            marker, marker, looper], document.body);
         M(['fieldset',
            ['legend', 'Play/Pause/Jump'],
-           ['style', ['display', 'inline-block']],
+           ['style', ['display', 'inline-block'], ['verticalAlign', 'top']],
            jumpBack, stepBack, playPause, stepForward, jumpForward], document.body);
     }]]], document.body);
