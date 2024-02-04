@@ -982,15 +982,16 @@ function searchUI() {
         ['button', 'Combatives map',
          ['on', ['click', () => {
              var context = { Escape : popContext },
-                 allCombatives = lessonList.filter(l => l.course.name.match('Gracie Combatives 2.0'));
+                 lessons = lessonList.filter(l => l.course.name.match('Gracie Combatives 2.0')),
+                 tests = courseList.filter(course => course.name.match('Gracie Combatives 2.0'))[0].tests;
              M(['div', ['with', mapDiv => {
                  M(['div', ['button', 'Close', ['on', ['click', e => {
                      popContext();
                  }]]]], mapDiv);
-                 allCombatives.forEach(l => {
+                 lessons.forEach(l => {
                      var toggleList;
                      M(['div',
-                        ['div', l.number + ": " + l.name,
+                        ['div', 'Lesson ' + l.number + ": " + l.name,
                          ['style', ['cursor', 'pointer'],
                           ['display', 'inline-block'],
                           ['margin', '5px 0 0 5px'],
@@ -1014,6 +1015,13 @@ function searchUI() {
                                     }]]], lessonDiv);
                              });
                          }]]], mapDiv);
+                 });
+                 tests.forEach(test => {
+                     M(['div', 'Test ' + test.number + ': ' + test.name,
+                        ['style', ['margin', '5px'], ['cursor', 'pointer']],
+                        ['on', ['click', e => {
+                            video(test);
+                        }]]], mapDiv);
                  });
                  context.show = () => { mapDiv.style.display = 'block'; };
                  context.hide = () => { mapDiv.style.display = 'none'; };
