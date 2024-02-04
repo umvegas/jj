@@ -1258,6 +1258,7 @@ Lesson 2: Americana Armlock
   3. Neck-Hug Variation @29:29
   4. Side Entry @40:46
   rdd@46:25
+  fs@60:15
   mm@51:00
 Lesson 3: Positional Control (Mount)
   1. Hips and Hands @3:02
@@ -1510,6 +1511,12 @@ Lesson 36: Double Underhook Guard Pass
   rdd@60:32
   fs@63:04
   mm@66:32
+Test 0 gc2.t0.mp4 Test Introduction
+Test 1 gc2.t1.mp4 Mount Techniques
+Test 2 gc2.t2.mp4 Guard Techniques
+Test 3 gc2.t3.mp4 Side Mount Techniques
+Test 4 gc2.t4.mp4 Standing Techniques
+Test 5 gc2.t5.mp4 Freestyle
 END Gracie Combatives 2.0
 BEGIN Gracie Combatives
 folder gc
@@ -3936,6 +3943,42 @@ Lesson 9: Outro
   file=pbs4.09.mp4
   1. Outro @0:00
 END PBS 4
+BEGIN Pedro Sauer No Gi Side Control
+folder sauer-no-gi-side-control
+nodemo
+Lesson 1: Introduction, Americana
+file=1.mp4
+  1. Introduction @0:00
+  2. Cross Body Control Mechanics @2:18
+  3. Value of the Underhook @7:52
+  4. Setting Up Head and Arm @13:39
+  5. Americana @20:15
+  6. History of the Americana, Importance of Guard Play @25:37
+Lesson 2: Submissions
+file=2.mp4
+  1. Kimura @0:00
+  2. Kimura to Straight Armbar @4:53
+  3. Belly Down Armbar @8:23
+  4. Belly Down Armbar 2 @10:35
+  5. Troubleshooting Belly Down Armbar @12:07
+  6. Spinning Straight Armbar @15:17
+  7. One Arm Guillotine @20:40
+  8. Reclaiming the Underhook, Palm-to-palm @24:44
+  9. Reclaiming the Underhook with an Elbow @27:17
+ 10. Monoplata @28:46
+Lesson 3: Submissions, Strategies
+file=3.mp4
+  1. Backstep Kimura @0:00
+  2. Near Side Americana @2:05
+  3. Triangle From Scarf @5:35
+  4. Kesa Gatame @7:25
+  5. Saturday Night Fever @10:02
+  6. Baiting Mount @13:12
+  7. High Mount @15:26
+  8. Elbow Separation to Mount @19:06
+  9. Triangle @23:23
+ 10. Knee Bar @27:37
+END Pedro Sauer No Gi Side Control
 BEGIN Master Sauer Seminar Series
 folder ms
 Lesson 1: Mount Escape Mastery
